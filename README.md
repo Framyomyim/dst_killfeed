@@ -9,3 +9,6 @@ Free - Open Source FiveM Script For Feed When Player Died Or Killed
 - Knuckle
 - Heavy Revolver
 - Bottle
+
+## Requirements
+- baseevents
